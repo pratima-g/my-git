@@ -3,3 +3,5 @@ this is my git documentation
 welcome here !
 
 thankyou
+
+bye
